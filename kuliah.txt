@@ -5,3 +5,5 @@ Mata Kuliah Semester 7
 
 5. Pemrograman Mobile
 6. Proposal
+7. Manajemen Kualitas
+8. Manajemen Resiko
